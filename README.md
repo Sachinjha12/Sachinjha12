@@ -8,6 +8,7 @@
 - 💞️ Looking for internship opportunities in data science,web development
 - 📫 jhasachin896@gmail.com
 - My linkedin profile : https://www.linkedin.com/in/sachin-jha-aa6241201/
+- My Resume link : https://flowcv.com/resume/9p0tuodgpm
 
 <!---
 Sachinjha12/Sachinjha12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
