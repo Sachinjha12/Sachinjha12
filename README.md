@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sachin Jha
 - 👀 I’m interested in data analytics,machine learning,frontend development
 - 🌱 I have hands on experience in
--  building and evaluating Machine learning model,neural networks
+-  Building and evaluating Machine learning model,neural networks
 -  EDA,Data Preprocessing
 -  MySQL
 -  Currently I'm working on Web development projects with tech stack ( HTML,CSS,Javascript,React.js)
