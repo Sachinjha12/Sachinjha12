@@ -5,10 +5,10 @@
 -  EDA,Data Preprocessing
 -  MySQL
 -  Currently I'm working on Web development projects with tech stack ( HTML,CSS,Javascript,React.js)
-- 💞️ Looking for internship opportunities in data science,web development
+- 💞️ Looking for full time opportunities in data science,web development
 - 📫 jhasachin896@gmail.com
 - My linkedin profile : https://www.linkedin.com/in/sachin-jha-aa6241201/
-- My Resume link : https://flowcv.com/resume/9p0tuodgpm
+- My Resume link :https://flowcv.com/resume/cr5w928wrw
 
 <!---
 Sachinjha12/Sachinjha12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
