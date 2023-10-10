@@ -2,9 +2,9 @@
 - 👀 I’m interested in data analytics,machine learning,frontend development
 - 🌱 I have hands on experience in
 -  Building and evaluating Machine learning model,neural networks
--  EDA,Data Preprocessing
+-  EDA,Data Preprocessing,Feature Engineering
 -  MySQL
--  Currently I'm working on Web development projects with tech stack ( HTML,CSS,Javascript,React.js)
+-  Currently I'm working on Web development projects with tech stack ( HTML,CSS,Javascript,)
 - 💞️ Looking for full time opportunities in data science,web development
 - 📫 jhasachin896@gmail.com
 - My linkedin profile : https://www.linkedin.com/in/sachin-jha-aa6241201/
